@@ -37,5 +37,3 @@ Solved in 0.480 seconds.
 ```
 
 Questions @lucasinocencio1
-# A-Sudoku-solver-implemented-in-pure-Python-without-external-dependencies.
-# sudoku-solver
